@@ -1,6 +1,9 @@
 h1 a {
     font-family: 'italic';
 }
+p {
+    text-align: justify;
+}
 .page-header {
     background-color: #686AC4;
     margin-top: 0;
